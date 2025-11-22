@@ -9,9 +9,8 @@
 
 - 💬 Ask me about Web Development, Data Science, Computer Vision
 - 👩🏻‍💻 Software Engineer sharing some projects
-- 🌱 I’m currently Business Intelligence and Big Data
+- 🌱 I’m currently learning Business Intelligence and Big Data 
 - 👩🏻‍🎓 Studied Computer Science at The Higher Institute of Information Technologies and Communication Borj Cedria(ISTIC)
-- 🔭 I’m currently working on a fraud management system project using React and Spring Boot and Microservices
 - 👯 I'm open to collaborate on open-source projects and internships abroad
 - 📫 How to reach me: [firas0elmahdi@gmail.com](mailto:firas0elmahdi@gmail.com)
 
@@ -24,10 +23,10 @@
 
 ## 🏆 Certifications
 - Big Data Engineer Certificate - IBM (2025)
-- Python 101 for Data Science - IBM
-- Data Analysis with Python - IBM
-- Data Visualization with Python - IBM
-- Machine Learning with Python - IBM
+- Python 101 for Data Science - IBM (2025)
+- Data Analysis with Python - IBM (2025)
+- Data Visualization with Python - IBM (2025)
+- Machine Learning with Python - IBM (2025)
 
 ## 💻 Tech Stack
 
@@ -51,11 +50,15 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JanusGraph](https://img.shields.io/badge/JanusGraph-4285F4?style=for-the-badge&logo=apache&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FirasMehdi&theme=dark&hide_border=false)<br/>
