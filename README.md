@@ -7,7 +7,7 @@
 </p>
 
 
-- 💬 Ask me about Web Development, Data Science, Computer Vision, BI
+- 💬 Ask me about Web Development, Data Science, Computer Vision, Business Intelligence
 - 👩🏻‍💻 Software Engineer sharing some projects
 - 🌱 I’m currently learning Business Intelligence and Big Data 
 - 👩🏻‍🎓 Studied Computer Science at The Higher Institute of Information Technologies and Communication Borj Cedria(ISTIC)
