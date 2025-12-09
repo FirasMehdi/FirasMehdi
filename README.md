@@ -62,10 +62,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JanusGraph](https://img.shields.io/badge/JanusGraph-4285F4?style=for-the-badge&logo=apache&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=FirasMehdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FirasMehdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Firas's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirasMehdi&show_icons=true&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FirasMehdi&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
